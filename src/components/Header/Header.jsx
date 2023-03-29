@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <header>
             <Navbar></Navbar>
-            <h1 className='text-3xl text-center my-4'>Welcome to TheMealDB</h1>
+            <h1 className='text-3xl text-center my-4'>Welcome to TheMealDB!</h1>
             <p className='text-center my-3'>Welcome to TheMealDB: An open, crowd-sourced database of Recipes from around the world.</p>
             <hr  className='border'/>
             <div className='flex justify-center'>
